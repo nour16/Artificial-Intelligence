@@ -1,2 +1,4 @@
 # Inteligence Artificielle
-Solutions aux TPS et projets de l'UE LU3IN025 Inteigence Artificielle et Jeux que j'ai suivi en L3 informatique à Sorbonne Université 
+
+Solutions to Artificial Intelligence projects that I took during my L3 computer science at Sorbonne University
+
